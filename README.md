@@ -1,4 +1,4 @@
-# Alomost-any-file to Pandas dataframe
+# Almost-any-file to Pandas dataframe
 
 ## Module description
 
